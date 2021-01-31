@@ -1,0 +1,11 @@
+C:\Users\Fırat\source\repos\MernisDogrulama\MernisDogrulama\bin\Debug\netcoreapp2.1\MernisDogrulama.deps.json
+C:\Users\Fırat\source\repos\MernisDogrulama\MernisDogrulama\bin\Debug\netcoreapp2.1\MernisDogrulama.runtimeconfig.json
+C:\Users\Fırat\source\repos\MernisDogrulama\MernisDogrulama\bin\Debug\netcoreapp2.1\MernisDogrulama.runtimeconfig.dev.json
+C:\Users\Fırat\source\repos\MernisDogrulama\MernisDogrulama\bin\Debug\netcoreapp2.1\MernisDogrulama.dll
+C:\Users\Fırat\source\repos\MernisDogrulama\MernisDogrulama\bin\Debug\netcoreapp2.1\MernisDogrulama.pdb
+C:\Users\Fırat\source\repos\MernisDogrulama\MernisDogrulama\obj\Debug\netcoreapp2.1\MernisDogrulama.csprojAssemblyReference.cache
+C:\Users\Fırat\source\repos\MernisDogrulama\MernisDogrulama\obj\Debug\netcoreapp2.1\MernisDogrulama.csproj.CoreCompileInputs.cache
+C:\Users\Fırat\source\repos\MernisDogrulama\MernisDogrulama\obj\Debug\netcoreapp2.1\MernisDogrulama.AssemblyInfoInputs.cache
+C:\Users\Fırat\source\repos\MernisDogrulama\MernisDogrulama\obj\Debug\netcoreapp2.1\MernisDogrulama.AssemblyInfo.cs
+C:\Users\Fırat\source\repos\MernisDogrulama\MernisDogrulama\obj\Debug\netcoreapp2.1\MernisDogrulama.dll
+C:\Users\Fırat\source\repos\MernisDogrulama\MernisDogrulama\obj\Debug\netcoreapp2.1\MernisDogrulama.pdb
